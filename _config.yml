@@ -1,1 +1,12 @@
-theme: jekyll-theme-cayman
+title: ERP Документация
+description: Пошаговые инструкции для сотрудников
+remote_theme: just-the-docs/just-the-docs
+
+url: https://messaxs.github.io
+baseurl: /erp-docs
+
+aux_links:
+  GitHub: https://github.com/MessaXS/erp-docs
+
+search_enabled: true
+encoding: utf-8
